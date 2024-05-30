@@ -1,4 +1,4 @@
-# ArXiv Title Prediction from Abstract Using BART
+# Research Paper Title Generation using t5 Transformer
 
 ![ArXiv](https://storage.googleapis.com/kaggle-public-downloads/arXiv.JPG)
 
