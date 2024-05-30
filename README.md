@@ -52,6 +52,7 @@ The trained model is used to generate titles from abstracts. The notebook includ
 ## Visualization
 
 The project includes visualizations to analyze the distribution of word counts in abstracts and titles. It also visualizes the top categories and authors over the years.
+
 ![image](https://github.com/Geo-y20/Research-Paper-Title-Generation-using-bart/assets/103205660/75e0f6f8-caa8-44f3-a322-90855b578151)
 ![image](https://github.com/Geo-y20/Research-Paper-Title-Generation-using-bart/assets/103205660/dd313e28-8c48-4ccb-951c-b49c23e2f976)
 
@@ -62,7 +63,7 @@ To use the notebook, follow these steps:
 
 1. Clone the repository.
     ```bash
-    git clone https://github.com/Geo-y20/Research-Paper-Title-Generation-using-t5-transformer.git
+    git clone https://github.com/Geo-y20/Research-Paper-Title-Generation-using-bart.git
     ```
 2. Install the required libraries.
     ```bash
