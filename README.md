@@ -1,4 +1,4 @@
-# Research Paper Title Generation using t5 Transformer
+# Research Paper Title Generation using BART
 
 ![ArXiv](https://storage.googleapis.com/kaggle-public-downloads/arXiv.JPG)
 
@@ -52,9 +52,8 @@ The trained model is used to generate titles from abstracts. The notebook includ
 ## Visualization
 
 The project includes visualizations to analyze the distribution of word counts in abstracts and titles. It also visualizes the top categories and authors over the years.
-
-![image](https://github.com/Geo-y20/Research-Paper-Title-Generation-using-t5-transformer/assets/103205660/ee88b927-d608-4435-a150-1e1aa0ecb22f)
-![image](https://github.com/Geo-y20/Research-Paper-Title-Generation-using-t5-transformer/assets/103205660/4881fa9e-6f86-48fa-ad8b-0bbfa25be12a)
+![image](https://github.com/Geo-y20/Research-Paper-Title-Generation-using-bart/assets/103205660/75e0f6f8-caa8-44f3-a322-90855b578151)
+![image](https://github.com/Geo-y20/Research-Paper-Title-Generation-using-bart/assets/103205660/dd313e28-8c48-4ccb-951c-b49c23e2f976)
 
 
 ## Usage
