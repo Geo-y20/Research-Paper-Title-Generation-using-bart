@@ -53,6 +53,9 @@ The trained model is used to generate titles from abstracts. The notebook includ
 
 The project includes visualizations to analyze the distribution of word counts in abstracts and titles. It also visualizes the top categories and authors over the years.
 
+![image](https://github.com/Geo-y20/Research-Paper-Title-Generation-using-t5-transformer/assets/103205660/ee88b927-d608-4435-a150-1e1aa0ecb22f)
+![image](https://github.com/Geo-y20/Research-Paper-Title-Generation-using-t5-transformer/assets/103205660/4881fa9e-6f86-48fa-ad8b-0bbfa25be12a)
+
 
 ## Usage
 
