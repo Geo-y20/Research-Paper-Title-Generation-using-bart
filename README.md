@@ -59,7 +59,7 @@ To use the notebook, follow these steps:
 
 1. Clone the repository.
     ```bash
-    git clone https://github.com/your-username/arxiv-title-prediction.git
+    git clone https://github.com/Geo-y20/Research-Paper-Title-Generation-using-t5-transformer.git
     ```
 2. Install the required libraries.
     ```bash
