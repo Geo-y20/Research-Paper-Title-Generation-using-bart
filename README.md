@@ -7,7 +7,8 @@
 This repository contains a notebook that demonstrates how to use the [BART](https://arxiv.org/abs/1910.13461) Transformer model to perform title generation from abstracts. BART is a sequence-to-sequence model where both the input and targets are text sequences, commonly used for text summarization. In this project, the goal is to summarize titles from abstracts.
 
 ### Live Demo
-https://drive.google.com/file/d/13z4ZcXyrqwAn7wG4-Z0c0C8HEvnOjLip/view?usp=sharing 
+[![Watch the demo](https://drive.google.com/thumbnail?id=13z4ZcXyrqwAn7wG4-Z0c0C8HEvnOjLip)](https://drive.google.com/file/d/13z4ZcXyrqwAn7wG4-Z0c0C8HEvnOjLip/view?usp=sharing)
+
 ### Acknowledgements
 
 This notebook borrows code from:
