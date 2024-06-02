@@ -55,6 +55,7 @@ The trained model is used to generate titles from abstracts. The notebook includ
 ## Visualization
 
 The project includes visualizations to analyze the distribution of word counts in abstracts and titles. It also visualizes the top categories and authors over the years.
+<img src ="visualization.png">
 
 ## Usage
 
