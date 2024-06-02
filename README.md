@@ -82,7 +82,11 @@ The model demonstrates the capability to generate titles from abstracts with rea
 
 This project showcases the application of the BART model for text summarization tasks, specifically generating research paper titles from abstracts. The approach can be extended to other text summarization tasks with appropriate adjustments.
 
-## License
+## Sample of website Iage
+
+## Acess Model Trained 
+
+
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
