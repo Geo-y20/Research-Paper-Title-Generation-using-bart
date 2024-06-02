@@ -6,6 +6,8 @@
 
 This repository contains a notebook that demonstrates how to use the [BART](https://arxiv.org/abs/1910.13461) Transformer model to perform title generation from abstracts. BART is a sequence-to-sequence model where both the input and targets are text sequences, commonly used for text summarization. In this project, the goal is to summarize titles from abstracts.
 
+### Live Demo
+https://drive.google.com/file/d/13z4ZcXyrqwAn7wG4-Z0c0C8HEvnOjLip/view?usp=sharing 
 ### Acknowledgements
 
 This notebook borrows code from:
@@ -53,10 +55,6 @@ The trained model is used to generate titles from abstracts. The notebook includ
 
 The project includes visualizations to analyze the distribution of word counts in abstracts and titles. It also visualizes the top categories and authors over the years.
 
-
-![image](https://github.com/Geo-y20/Research-Paper-Title-Generation-using-bart/assets/103205660/dd313e28-8c48-4ccb-951c-b49c23e2f976)
-
-
 ## Usage
 
 To use the notebook, follow these steps:
@@ -82,12 +80,13 @@ The model demonstrates the capability to generate titles from abstracts with rea
 
 This project showcases the application of the BART model for text summarization tasks, specifically generating research paper titles from abstracts. The approach can be extended to other text summarization tasks with appropriate adjustments.
 
-## Sample of website Iage
+## Sample of Website Image
+<img src ="image.png">
 
-## Acess Model Trained 
+## Access Model Trained 
+https://drive.google.com/drive/folders/1vPEsYf0dJJb7Sor0QSVZy-lhfbF_gjU_?usp=sharing 
 
-
-
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
